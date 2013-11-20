@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Strano [![Build Status](https://secure.travis-ci.org/joelmoss/strano.png?branch=master)](https://travis-ci.org/joelmoss/strano)
 ======
 
@@ -73,3 +74,7 @@ Once you've made your great commits:
 3. Push to your branch - `git push origin my_branch`
 4. Create a [Pull Request](http://help.github.com/pull-requests/) from your branch
 5. That's it!
+=======
+strano
+======
+>>>>>>> 14f2e2a9641c36afd29e64cfed3ba99198b81be2
